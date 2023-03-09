@@ -1,1 +1,1 @@
-# MisPIndicatorIPs
+# IOCs: IPs
