@@ -1,28 +1,5 @@
 DateAdded,Source,InternetProtocol,Type,DescriptionAttack,CategoryAttack
-09/03/2023,Madrid,37.19.199.202,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,45.144.227.42,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,45.144.227.44,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,51.89.153.112,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,79.110.53.14,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,89.147.111.106,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,91.203.5.115,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,122.146.90.200,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,123.168.11.194,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,138.199.40.178,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,144.123.6.70,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,156.146.45.154,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,156.146.45.207,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,171.25.193.25,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,171.25.193.78,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,171.25.193.235,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,179.43.159.200,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,185.7.33.146,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,185.129.61.5,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,185.246.188.74,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,185.248.160.151,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,185.248.163.163,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,192.3.223.126,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,192.52.166.88,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,212.102.42.90,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,212.102.42.195,IP,Cobalt Strike,Malware
-09/03/2023,Madrid,222.173.222.228,IP,Cobalt Strike,Malware
+09/03/2023,Madrid,37.19.199.343,IP,Cobalt Strike,Malware
+09/03/2023,Madrid,45.144.227.433,IP,Cobalt Strike,Malware
+09/03/2023,Madrid,45.144.227.424,IP,Cobalt Strike,Malware
+10/03/2023,Madrid,185.43.192.714,IP,Conti,Malware
